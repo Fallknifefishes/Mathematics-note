@@ -141,4 +141,3 @@ We **pick** $a_{n_{k}} \in I_{k}$ for each $k$ and we can show that $(a_{n_{k}})
 
 > **Intuition**:  This is essentially pigeohole principle in infinite setting. Consider if we divide $[-M, M]$ into intervals length of $\epsilon$ 
 
-This is a test for github
