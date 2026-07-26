@@ -1,0 +1,55 @@
+{
+  "callouts": {
+    "custom": [
+      "thinking-process",
+      "method",
+      "understanding",
+      "thm",
+      "proof"
+    ],
+    "settings": {
+      "thinking-process": [
+        {
+          "changes": {
+            "icon": "lucide-activity",
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "method": [
+        {
+          "changes": {
+            "color": "227, 107, 167"
+          }
+        }
+      ],
+      "understanding": [
+        {
+          "changes": {
+            "icon": "lucide-book-open",
+            "color": "83, 223, 221"
+          }
+        }
+      ],
+      "thm": [
+        {
+          "changes": {
+            "color": "168, 130, 255"
+          }
+        }
+      ],
+      "proof": [
+        {
+          "changes": {
+            "color": "227, 107, 167"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

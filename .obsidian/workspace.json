@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "98c2f408dd1cc9c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5709404dafec8079",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ffa157bb5c73a04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni math/Books/Understanding Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Understanding Analysis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "030e0c8eaf897c43",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec70dfdd2f828136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7748cc7c4deb79b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "70d67bdd9a088480",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#copilot-conversation",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a8c6479dd84ed2ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90e9780959702c35",
+    "type": "split",
+    "children": [
+      {
+        "id": "04c79ea59a41bbd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8acb745fca3e344",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STEP/Complex Number.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Complex Number 的反向链接列表"
+            }
+          },
+          {
+            "id": "13bcaba0c78b34c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STEP/Vectors.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Vectors 的出链列表"
+            }
+          },
+          {
+            "id": "ab3025854ccab4ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e2f83d524a0cbdf3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e56484ab1dcedfce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STEP/Complex Number.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Complex Number 的大纲"
+            }
+          },
+          {
+            "id": "2b5a476ddbf9cb8e",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "callout-manager:Insert Callout": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "5ffa157bb5c73a04",
+  "lastOpenFiles": [
+    "Uni math/A Record of Interesting Thoughts for My Future Self.md",
+    "Uni math/Books/Understanding Analysis.md",
+    "Plans/Year 1.md",
+    "Plans/10 Years Plan - Timeline.md",
+    "Heuristics/People.md",
+    "Pasted image 20260723210337.png",
+    "Heuristics/Queen of Science.md",
+    "STEP/List of little things.md",
+    "Uni math/Uni Modules/Year 1/Algebra 2 (MA150-15).md",
+    "Uni math/Uni Modules/Year 1/Algebra 1 (MA151-10).md",
+    "STEP/Vectors.md",
+    "STEP/Summerising Paper.md",
+    "STEP/Complex Number.md",
+    "Uni math/Uni Modules/Year 1/Methods of Mathematical Modelling 2 (MA144-10).md",
+    "Uni math/Uni Modules/Year 1/Methods of Mathematical Modelling 1 (MA146-10).md",
+    "Uni math/Uni Modules/Year 1/Analysis 1 (MA141-10).md",
+    "Uni math/Uni Modules/Year 1/Analysis 2 (MA139-15).md",
+    "Uni math/Uni Modules/Year 1/Foundations (MA132-10).md",
+    "Uni math/Uni Modules/Year 1/Introduction to Probability (ST120-10).md",
+    "Uni math/Uni Modules/Year 1/Mathematics by Computer (MA124-10).md",
+    "Heuristics/Attention is All You Need.md",
+    "Plans",
+    "First Principle.md",
+    "copilot/copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20260706_155951.md",
+    "Uni math/Uni Modules/Year 1",
+    "Uni math/Uni Modules",
+    "Uni math/Books",
+    "Heuristics",
+    "未命名.base",
+    "图片/Pasted image 20260509182511.png",
+    "图片",
+    "copilot/copilot-conversations/Summarizing_by_Notes@20260706_153619.md",
+    "copilot/copilot-conversations/Lead_Ball_vs_Feather_Drop@20260706_155951.md",
+    "copilot/copilot-conversations/Complex_Number_Note_Summary@20260706_153910.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "图片/Pasted image 20260506164828.png",
+    "图片/Pasted image 20260506164716.png",
+    "图片/Pasted image 20260504164321.png",
+    "未命名.canvas"
+  ]
+}
