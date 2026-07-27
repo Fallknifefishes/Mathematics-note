@@ -104,7 +104,15 @@ Due to injectivity, an element can only be mapped by at most one element (or non
 > $\forall \epsilon >0, \exists N \in \mathbb{N} \text{ such that } \forall n> N \text{ we have } |a_{n}- L|<\epsilon$
 > We write $\lim_{ n \to \infty } a_{n} = L$
 
-Expand
+> Intuition: This is essentially a translation of 'for any small number we can image, the distance between the sequence and the limit is smaller then the number'.
+
+
+> [!NOTE] $\epsilon$ - Neighbourhood
+> For the parametre $\epsilon>0$, the $\epsilon$ - Neighbourhood of a point $x$ is the interval $V_{\epsilon}(x) = (x-\epsilon, x+\epsilon)$
+
+> [!NOTE] Topological definition of convergence
+> A sequence $(a_{n})$ converges to $L$ if and only if for each $\epsilon>0$, only a **finite number** of terms is outside of $V_{\epsilon}(x)$
+
 
 ---
 
@@ -126,6 +134,7 @@ Expand
 
 Here, eventually means there **exist a (finite)** $N$ such that **for all** $n>N$ we have $a_{n}$ is monotonic.
 
+> Analysis studies the behaviour of **thing approaching infinity**, so if a behaviour  is only limited to finite amount of terms, it can be **controlled** or **diluted** though infinite behaviour, so is *shouldn't matter much*
 
 ---
 
