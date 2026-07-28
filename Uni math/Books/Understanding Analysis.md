@@ -136,10 +136,16 @@ It is saying that, given limit of $(a_{n})$ and $(b_{n})$ **exist**, they behave
 > Similarlly when we swich $\leq \rightarrow \ge$
 
 **What does it say?**
-Limit of a sequence respects size properties of finite terms
+Limit of a sequence respects size properties of finite terms. 
 
-**Idea linked with it:** An $\epsilon$ of room.
-When we want to study $(x_{\infty}, S_{\infty})$ or $(x_{0}, S_{0})$, we first study $(x_{n}, S_{n})$ for $(x_{\epsilon}, S_{\epsilon})$ and for every $n$ and $\epsilon$ and push $
+The **strict inequality may be lost** after taking limits, this happens when the **gap between the two terms** exist in any **finite** condition, but will eventually shrink to $0$ (More rigoursly, smaller then any $\epsilon >0$). So their limits are will be equal.
+
+**Idea linked with it:** 
+An $\epsilon$ of room.
+When we want to study $(x_{\infty}, S_{\infty})$ or $(x_{0}, S_{0})$, we first study $(x_{n}, S_{n})$ for $(x_{\epsilon}, S_{\epsilon})$ and for every $n$ and $\epsilon$ and push $n \rightarrow \infty$ or $\epsilon \rightarrow 0$.
+
+This gives a bridge into pushing $n \rightarrow \infty$.
+It says that size relation which holds for each $n$ will hold for the limit when we push $n\rightarrow \infty$.
 
 
 ---
@@ -225,3 +231,6 @@ A **rigours proof** is just unpacking there idea into formal $\epsilon - N$ lang
 
 
 ---
+
+> [!NOTE] Cauchy Condensation Test
+> Contents
