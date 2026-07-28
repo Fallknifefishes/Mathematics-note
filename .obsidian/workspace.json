@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STEP/Complex Number.md",
+                "file": "Uni math/Books/Understanding Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Complex Number 的反向链接列表"
+              "title": "Understanding Analysis 的反向链接列表"
             }
           },
           {
@@ -175,8 +175,7 @@
               "title": "Copilot"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,6 +198,7 @@
   },
   "active": "5ffa157bb5c73a04",
   "lastOpenFiles": [
+    "Pasted image 20260728112718.png",
     "Plans/10 Years Plan - Timeline.md",
     "Uni math/Books/UA-A rough record of thinking and meta thinking.md",
     "Uni math/Books/Understanding Analysis.md",
@@ -233,7 +233,6 @@
     "图片",
     "copilot/copilot-conversations/Summarizing_by_Notes@20260706_153619.md",
     "copilot/copilot-conversations/Lead_Ball_vs_Feather_Drop@20260706_155951.md",
-    "copilot/copilot-conversations/Complex_Number_Note_Summary@20260706_153910.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",

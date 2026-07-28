@@ -116,6 +116,34 @@ Due to injectivity, an element can only be mapped by at most one element (or non
 
 ---
 
+> [!NOTE] Algebraic limit theorem 
+> **Given** $\lim_{ n \to \infty } a_{n} = a$ and $\lim_{ n \to \infty }b_{n} = b$
+> Then
+> 1. $\lim_{ n \to \infty } ca_{n} = ca$ for all $c\in \mathbb{R}$
+> 2. $\lim_{ n \to \infty } (a_{n} \pm b_{n}) = a\pm b$
+> 3. $\lim_{ n \to \infty }a_{n}b_{n} = ab$
+> 4. $\lim_{ n \to \infty } \frac{a_{n}}{b_{n}} = \frac{a}{b}$ provided $b \neq 0$
+
+All of these can be proven by **unpacking and packing limits** using the $\epsilon -N$ language.
+
+It is saying that, given limit of $(a_{n})$ and $(b_{n})$ **exist**, they behave normally under basic algebra.
+
+
+> [!NOTE] Order limit theorem
+> Given $\lim_{ n \to \infty }a_{n}=a$ and $\lim_{ n \to \infty }b_{n} = b$.
+> 1. If $a_{n}<b_{n}$ for all $n \in \mathbb{N}$, then $a\leq b$
+> 2. If there exists $c \in \mathbb{R}$ for which $c\leq b_{n}$ for all $n \in N$, then $c\leq b$
+> Similarlly when we swich $\leq \rightarrow \ge$
+
+**What does it say?**
+Limit of a sequence respects size properties of finite terms
+
+**Idea linked with it:** An $\epsilon$ of room.
+When we want to study $(x_{\infty}, S_{\infty})$ or $(x_{0}, S_{0})$, we first study $(x_{n}, S_{n})$ for $(x_{\epsilon}, S_{\epsilon})$ and for every $n$ and $\epsilon$ and push $
+
+
+---
+
 > [!NOTE] Monotone Convergence Theorem (MCT)
 > If a sequence $(a_{n})$ is monotonically increasing (decreasing) and has an upper (lower) bound, then it converges. $\lim_{ n \to \infty } a_{n}$ exists.
 
@@ -170,7 +198,7 @@ So essentially cauchy sequence are infinitly close to eachother at infinitly. Th
 
 
 
-> [!NOTE] Theorem: Cauchy = convergence
+> [!NOTE] Theorem: Cauchy Criterion
 > A sequence $(a_{n})$ converges if and only if it's a Cauchy sequence.
 
 **Idea of the proof**
@@ -187,5 +215,13 @@ The **problem** is, we do not have a **proposed limit** to proof it's convergenc
 A **rigours proof** is just unpacking there idea into formal $\epsilon - N$ language and packing them again.
 
 > **Tool:** This provides another way of showing a sequence is convergent without knowing  the limit. It converts the chain of 
-> What to proof convergence -> Propose a limit -> Show that $(a_{n})$ i
+> Want to proof convergence -> Propose a limit -> Show that $(a_{n})$ is eventually infinitly close to the proposed limit ($\epsilon -N$)
+> 
+> Which studies the relationship between **the term and the proposed limit**, to ;
+> Want to proof convergence -> Study the relationship between terms -> Show that the terms of $(a_{n})$ gets arbitrarly close 
+> If shift the focus from **a fixed limit (external to $a_{n}$ )** to **relationship between terms of $(a_{n})$ (Internal to $a_{n}$)** 
 
+> **Trigger:** The **limit is unrelated or unguessable**
+
+
+---
