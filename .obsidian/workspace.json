@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni math/Books/Understanding Analysis.md",
+                "file": "Break time snacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Analysis"
+              "title": "Break time snacks"
             }
           }
         ]
@@ -73,6 +73,18 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "8aced5a083284754",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260728112718.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260728112718"
+            }
           }
         ]
       }
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni math/Books/Understanding Analysis.md",
+                "file": "Break time snacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Understanding Analysis 的反向链接列表"
+              "title": "Break time snacks 的反向链接列表"
             }
           },
           {
@@ -198,23 +210,25 @@
   },
   "active": "5ffa157bb5c73a04",
   "lastOpenFiles": [
-    "Pasted image 20260728112718.png",
     "Plans/10 Years Plan - Timeline.md",
-    "Uni math/Books/UA-A rough record of thinking and meta thinking.md",
+    "Break time snacks.md",
+    "STEP/Complex Number.md",
+    "copilot/copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20260706_155951.md",
+    "Pasted image 20260728112718.png",
+    "STEP/Summerising Paper.md",
+    "STEP/List of little things.md",
     "Uni math/Books/Understanding Analysis.md",
     "Uni math/A Record of Interesting Thoughts for My Future Self.md",
     "Pasted image 20260723210337.png",
+    "Uni math/Books/UA-A rough record of thinking and meta thinking.md",
     "Uni math/Uni Modules/Year 1/Introduction to Probability (ST120-10).md",
     "Heuristics/Queen of Science.md",
     "Heuristics/People.md",
     "Heuristics/Attention is All You Need.md",
     "Plans/Year 1.md",
-    "STEP/List of little things.md",
     "Uni math/Uni Modules/Year 1/Algebra 2 (MA150-15).md",
     "Uni math/Uni Modules/Year 1/Algebra 1 (MA151-10).md",
     "STEP/Vectors.md",
-    "STEP/Summerising Paper.md",
-    "STEP/Complex Number.md",
     "Uni math/Uni Modules/Year 1/Methods of Mathematical Modelling 2 (MA144-10).md",
     "Uni math/Uni Modules/Year 1/Methods of Mathematical Modelling 1 (MA146-10).md",
     "Uni math/Uni Modules/Year 1/Analysis 1 (MA141-10).md",
@@ -223,7 +237,6 @@
     "Uni math/Uni Modules/Year 1/Mathematics by Computer (MA124-10).md",
     "Plans",
     "First Principle.md",
-    "copilot/copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20260706_155951.md",
     "Uni math/Uni Modules/Year 1",
     "Uni math/Uni Modules",
     "Uni math/Books",
