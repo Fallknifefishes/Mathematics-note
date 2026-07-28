@@ -48,7 +48,7 @@ As a *mathematical tool*, it **proves existance.**
 
 **Intuition**: What the Archimedean Property ensures is that there are no real 'infinitly large or small'. However large $y$ is and however small $x$ can be, a finite $x$ can surpass $y$.
 
-Tigger/summary: System with AP mean the *finite sum of arbitrarly small number can be arbitrarily large (in the system).*
+**Tigger/summary**: System with AP means that the *finite sum of arbitrarly small number can be arbitrarily large (in the system).*
 
 > **Counterexample**: If we consider the system of fractional polynomials with $x$ tending to infinity. We can have $\frac{2x^3 +6x-4}{7x^3+1} = \frac{2}{7}$, however $1+1+1 \dots^\text{n times} = n <x$ for every $n$, hence in this system AP does not hold. (sum of finite small number cannot be arbitrarily large).
 >*What breaks it?* There is a '*infinitly large*' number in this system, namely $x$.
