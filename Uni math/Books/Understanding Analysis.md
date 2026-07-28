@@ -148,5 +148,44 @@ Here, eventually means there **exist a (finite)** $N$ such that **for all** $n>N
 We **pick** $a_{n_{k}} \in I_{k}$ for each $k$ and we can show that $(a_{n_{k}})$ converge to $s$ by the definition of convergence **using the arguement that $I_{k}$ is arbitrarily small** $a_{n_{k}}$ and $s$ are both in $I_{k}$.
 
 
-> **Intuition**:  This is essentially pigeohole principle in infinite setting. Consider if we divide $[-M, M]$ into intervals length of $\epsilon$ 
+> **Intuition**:  This is essentially pigeohole principle in approaching-infinity setting. Consider if we divide $[-M, M]$ into intervals length of $\epsilon$, at least one of the intervals will contain infinite terms. This holds for **each** $\epsilon>0$ and therefore, BW holds.
+
+
+> [!NOTE] Cauchy sequence
+> A sequence $(a_{n})$ is cauchy if $\forall \epsilon>0$, $\exists N \in \mathbb{N}$ s.t $\forall m>n>N$, we have $|a_{m}-a_{n}|<\epsilon$
+
+So essentially cauchy sequence are infinitly close to eachother at infinitly. This look very converging (out of intuition), and so we have the following theorem
+
+
+> [!NOTE] Lemma
+> Cauchy sequence are bounded 
+
+**Proof**: Choose $\epsilon = 1$ and there exist a $N$ such that for all $m$, $|a_{m} - a_{N}|<1$, because $N$ is finite, let $M = \max{|a_{1}|, |a_{2}|,\dots, |a_{N-1}|, |a_{N}+1|, |a_{n}-1|}$, and so for all $n \in \mathbb{N}$ we have $|a_{n}|\leq M$, hence $(a_{n})$ is bounded.
+
+> **Core idea**
+> Seporate infinite sequence in **two part**, one finite and one infinite. Controll infinite by **limit behaviours** and finite controll it self.
+> As an example, $\lim_{ n \to \infty }(a_{n}) = l$, we can find $N$ such that for all $n>N$, $a_{n}$ is an epsilon room from $l$ (controlled infinite behaviour). And we take care of $a_1, a_2 ... a_N$ seporatly.
+
+
+
+
+
+> [!NOTE] Theorem: Cauchy = convergence
+> A sequence $(a_{n})$ converges if and only if it's a Cauchy sequence.
+
+**Idea of the proof**
+$\rightarrow$
+The intuition behind this seems very obvious, if $(a_{n})$ converges, then it's forever stuck in the $\epsilon$ neighbourhood of the limit from some point forward, and so will the difference of terms past that point
+
+
+$\leftarrow$
+This way is a little bit harder, intuitionally, it makes sence, as for some point onward, the sequence will be stuck in the $\epsilon$ interval of some $a_{n}$. And so it should converge
+
+
+The **problem** is, we do not have a **proposed limit** to proof it's convergence *(we have no idea what the limit is*). In this case, we use the **Bolzano-Weierstrass theorem** to argue that it's subsequence converge to a limit, and because **the other terms are eventuall very close to the subsequence**, they converge to the same limit
+
+A **rigours proof** is just unpacking there idea into formal $\epsilon - N$ language and packing them again.
+
+> **Tool:** This provides another way of showing a sequence is convergent without knowing  the limit. It converts the chain of 
+> What to proof convergence -> Propose a limit -> Show that $(a_{n})$ i
 
