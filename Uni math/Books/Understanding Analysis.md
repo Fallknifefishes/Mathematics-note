@@ -266,5 +266,17 @@ The rest of ALT content (i.e when $a_{k}$ and $b_{k}$ are multiplied together) w
 
 ---
 
-> [!NOTE] Caucg
-> Contents
+> [!NOTE] Cauchy Critertion for Series
+> A series $\sum_{n=1}^{\infty} a_{n}$ converge if and only if $\forall \epsilon>0$, $\exists N \in \mathbb{N}$ such that $\forall n>m>N$ we have $|\sum_{k=m+1}^n a_{k}|<\epsilon$
+
+The proof of this just used the partial sum of infinite series + Cauchy Critertion for sequence.
+
+> **Idea**: For a converging series, the contributions of the tail gets arbitrarily small.
+
+> **Trigger:** Use when wanting to controll the behaviour of the"infinity tail" of a converging series.
+
+
+> [!NOTE] Comparison Test
+> Given $(a_{k})$ and $b_{k}$ are sequences satisfying $0\leq a_{k} \leq b_{k}$ for all $k \in \mathbb{N}$.
+> 1. If $\sum_{k=1}^\infty =b_{k}$ converges, then $\sum_{k=1}^\infty a_{k}$ converges.
+> 2. 
