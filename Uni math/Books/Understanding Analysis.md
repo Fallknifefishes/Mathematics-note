@@ -237,14 +237,14 @@ A **rigours proof** is just unpacking there idea into formal $\epsilon - N$ lang
 
 **Proof:** Bounding with square.
 
+> Toolbox: This test **speeds up** the convergence process. So when we **see** **non-increasing** and **non-negative sequence**, and we **want to prove sequence converge, for which it seems to converges very slowly**. Use this show convergence to **maginfy** and **speed up**.
 
-> Toolbox: This test **speeds up** the convergence process. So when **wanting to proof sequence that (intuitionally) converge very slowly**. Use this show convergence.
-
-Note that if we examine the proof, 2 is not special. So we have the following
+Note that if we examine the proof, $2$ is not special. So we have the following
 
 > [!NOTE] Generalised Cauchy Condensation Test
 > Given that $(a_{n})$ is **non-increasing** and **non-negative sequence**. For any positive integer $k$, $\sum_{n=1}^{\infty} a_{n}$ converges if and only if $\sum_{m=1}^{\infty} k^m a_{k^m}$ converges
 
 This can be proven with the same technique (with a minor adjustment).
 
-> Further Generalisation: In fact, for any increasing sequence $u(n)$ with $|u(n)-u(n-1)|<M$ (The spacing between con)
+> Further Generalisation: In fact, this holds for any increasing sequence $u(n)$ with $|u(n)-u(n-1)|<M$ (The spacing between consecutive terms does not tend to infinity). Shown by Oscar Schlömilch.
+
