@@ -99,6 +99,7 @@ Due to injectivity, an element can only be mapped by at most one element (or non
 
 # Sequence and Series
 
+### Sequence
 > [!NOTE] Definition (Convergence)
 > A sequence $(a_{n})$ is said to converge to a limit $L$ if 
 > $\forall \epsilon >0, \exists N \in \mathbb{N} \text{ such that } \forall n> N \text{ we have } |a_{n}- L|<\epsilon$
@@ -248,3 +249,22 @@ This can be proven with the same technique (with a minor adjustment).
 
 > Further Generalisation: In fact, this holds for any increasing sequence $u(n)$ with $|u(n)-u(n-1)|<M$ (The spacing between consecutive terms does not tend to infinity). Shown by Oscar Schlömilch.
 
+---
+### Series
+> [!NOTE] Convergence of series
+> A series $\sum_{n=1}^{\infty}a_{n}$ is said to converge if the sequence defined by $s_{m}=\sum_{n=1}^{m} a_{n}$ converges. And $\lim_{ m \to \infty }s_{m} =\sum_{n=1}^{\infty}a_{n}$
+
+We defined series convergence by looking at the **partial sum of the series as a sequence** and use the convergence of a sequence.
+By this, we have the following property
+
+> [!NOTE] Algebraic Limit Theorem for Series
+> If $\sum_{k=1}^{\infty}a_{k}=A$ and $\sum_{k=1}^{\infty}b_{k}=B$, then
+> 1. $\sum_{k=1}^{\infty}ca_{k} = cA$ for all $c \in \mathbb{R}$
+> 2. $\sum_{k=1}^{\infty}a_{k} \pm b_{k} = A \pm B$
+
+The rest of ALT content (i.e when $a_{k}$ and $b_{k}$ are multiplied together) will require stronger condition, namely absolute convergence. And will be covered later in the note.
+
+---
+
+> [!NOTE] Caucg
+> Contents
