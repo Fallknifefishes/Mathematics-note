@@ -277,6 +277,6 @@ The proof of this just used the partial sum of infinite series + Cauchy Criterti
 
 
 > [!NOTE] Comparison Test
-> Given $(a_{k})$ and $b_{k}$ are sequences satisfying $0\leq a_{k} \leq b_{k}$ for all $k \in \mathbb{N}$.
+> Given $(a_{k})$ and $(b_{k})$ are sequences satisfying $0\leq a_{k} \leq b_{k}$ for all $k \in \mathbb{N}$.
 > 1. If $\sum_{k=1}^\infty =b_{k}$ converges, then $\sum_{k=1}^\infty a_{k}$ converges.
 > 2. 
