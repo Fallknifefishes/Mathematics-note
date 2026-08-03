@@ -82,10 +82,10 @@ As a *mathematical tool*, it **proves existance.**
 
  **Intuition**: Method to compare of size in infinite setting. 'if there exists a bijective mapping between set, then they are equivalant in size'.
 
+This give a new way of thinking about 'size' in infinite setting
 
 > [!NOTE] Theorem (Schroder-Bernstein Theorem)
 > For sets $X$ and $Y$, if there exist a injective mapping $g:X\rightarrow Y$ and an injective mapping $h : Y\rightarrow X$. Then $X\sim Y$ ($X$ and $Y$ have the same cardinality)
-
 
 **Idea of the proof:**
 Due to injectivity, an element can only be mapped by at most one element (or non) from the opposing set by the injective function. For $x \in X$, we can trace up the element that is mapped to it by the function in $Y$, and repeat the process until it ends (or never end), therefore;
@@ -105,7 +105,9 @@ Due to injectivity, an element can only be mapped by at most one element (or non
 > $\forall \epsilon >0, \exists N \in \mathbb{N} \text{ such that } \forall n> N \text{ we have } |a_{n}- L|<\epsilon$
 > We write $\lim_{ n \to \infty } a_{n} = L$
 
-> Intuition: This is essentially a translation of 'for any small number we can image, the distance between the sequence and the limit is smaller then the number'.
+> Intuition: This is essentially a translation of the sentence 'for any small number we can image, the distance between the sequence and the limit is smaller then the number'.
+
+Another way to view it is looking it at a perspective of 'card 
 
 
 > [!NOTE] $\epsilon$ - Neighbourhood
@@ -166,7 +168,6 @@ It says that size relation which holds for each $n$ will hold for the limit when
 > [!NOTE] MCT but slightly stronger
 > If a sequence $(a_{n})$ is **eventually** monotonically increasing (decreasing) and has an upper (lower) bound, then it converges.  $\lim_{ n \to \infty } a_{n}$ exists.
 
-
 Here, eventually means there **exist a (finite)** $N$ such that **for all** $n>N$ we have $a_{n}$ is monotonic.
 
 > Analysis studies the behaviour of **thing approaching infinity**, so if a behaviour  is only limited to finite amount of terms, it can be **controlled** or **diluted** though infinite behaviour, so is *shouldn't matter much*
@@ -212,10 +213,8 @@ So essentially cauchy sequence are infinitly close to eachother at infinitly. Th
 $\rightarrow$
 The intuition behind this seems very obvious, if $(a_{n})$ converges, then it's forever stuck in the $\epsilon$ neighbourhood of the limit from some point forward, and so will the difference of terms past that point
 
-
 $\leftarrow$
 This way is a little bit harder, intuitionally, it makes sence, as for some point onward, the sequence will be stuck in the $\epsilon$ interval of some $a_{n}$. And so it should converge
-
 
 The **problem** is, we do not have a **proposed limit** to proof it's convergence *(we have no idea what the limit is*). In this case, we use the **Bolzano-Weierstrass theorem** to argue that it's subsequence converge to a limit, and because **the other terms are eventuall very close to the subsequence**, they converge to the same limit
 
