@@ -105,16 +105,16 @@ Due to injectivity, an element can only be mapped by at most one element (or non
 > $\forall \epsilon >0, \exists N \in \mathbb{N} \text{ such that } \forall n> N \text{ we have } |a_{n}- L|<\epsilon$
 > We write $\lim_{ n \to \infty } a_{n} = L$
 
-> Intuition: This is essentially a translation of the sentence 'for any small number we can image, the distance between the sequence and the limit is smaller then the number'.
+> Intuition: This is essentially a translation of the sentence 'for any small number we can imagine, the distance between the sequence and the limit is eventually smaller than the number'.
 
-Another way to view it is looking it at a perspective of 'card 
+Another way to view is in the perspective of two player taking turn to play a game. you are the second player.  Your opponent will pick an $\epsilon>0$, and you must find an $N$, for which for all $n>N$, $a_{n}$ lies less than an $\epsilon$ away from a fixed limit $L$. It you can do that **for every epsilon** you opponet picks, then you win, and $(a_{n})$ **converges to $L$ **.
 
 
 > [!NOTE] $\epsilon$ - Neighbourhood
-> For the parametre $\epsilon>0$, the $\epsilon$ - Neighbourhood of a point $x$ is the interval $V_{\epsilon}(x) = (x-\epsilon, x+\epsilon)$
+> For the parameter $\epsilon>0$, the $\epsilon$ - Neighbourhood of a point $x$ is the interval $V_{\epsilon}(x) = (x-\epsilon, x+\epsilon)$
 
 > [!NOTE] Topological definition of convergence
-> A sequence $(a_{n})$ converges to $L$ if and only if for each $\epsilon>0$, only a **finite number** of terms is outside of $V_{\epsilon}(x)$
+> A sequence $(a_{n})$ converges to $L$ if and only if for each $\epsilon>0$, only a **finite number** of terms is outside of $V_{\epsilon}(L)$
 
 
 ---
@@ -216,7 +216,7 @@ The intuition behind this seems very obvious, if $(a_{n})$ converges, then it's 
 $\leftarrow$
 This way is a little bit harder, intuitionally, it makes sence, as for some point onward, the sequence will be stuck in the $\epsilon$ interval of some $a_{n}$. And so it should converge
 
-The **problem** is, we do not have a **proposed limit** to proof it's convergence *(we have no idea what the limit is*). In this case, we use the **Bolzano-Weierstrass theorem** to argue that it's subsequence converge to a limit, and because **the other terms are eventuall very close to the subsequence**, they converge to the same limit
+The **problem** is, we do not have a **proposed limit** to proof it's convergence *(we have no idea what the limit is*). In this case, we use the **Bolzano-Weierstrass theorem** to argue that it's subsequence converge to a limit, and because **the other terms are eventually very close to the subsequence**, they converge to the same limit
 
 A **rigours proof** is just unpacking there idea into formal $\epsilon - N$ language and packing them again.
 
