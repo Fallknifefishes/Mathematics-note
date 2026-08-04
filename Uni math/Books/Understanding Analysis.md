@@ -272,10 +272,8 @@ The proof of this just used the partial sum of infinite series + Cauchy Criterti
 
 > **Idea**: For a converging series, the contributions of the tail gets arbitrarily small.
 
-> **Trigger:** Use when wanting to controll the behaviour of the"infinity tail" of a converging series.
+> **Trigger:** Apply when wanting to controll the behaviour of the"infinity tail" of a converging series.
 
 
 > [!NOTE] Comparison Test
-> Given $(a_{k})$ and $(b_{k})$ are sequences satisfying $0\leq a_{k} \leq b_{k}$ for all $k \in \mathbb{N}$.
-> 1. If $\sum_{k=1}^\infty =b_{k}$ converges, then $\sum_{k=1}^\infty a_{k}$ converges.
-> 2. 
+> Contents
