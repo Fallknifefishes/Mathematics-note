@@ -18,8 +18,23 @@
               "icon": "lucide-image",
               "title": "Pasted image 20260723210337"
             }
+          },
+          {
+            "id": "22a78d717a901f7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝 简历草稿：Louis G5 数学导师.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📝 简历草稿：Louis G5 数学导师"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,8 +221,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7748cc7c4deb79b3",
+  "active": "22a78d717a901f7a",
   "lastOpenFiles": [
+    "Pasted image 20260723210337.png",
+    "📝 简历草稿：Louis G5 数学导师.md",
     "Plans/10 Years Plan - Timeline.md",
     "Uni math/Books/Understanding Analysis.md",
     "Heuristics/Attention is All You Need.md",
@@ -226,7 +243,6 @@
     "Pasted image 20260728112718.png",
     "STEP/Summerising Paper.md",
     "Uni math/A Record of Interesting Thoughts for My Future Self.md",
-    "Pasted image 20260723210337.png",
     "Heuristics/Queen of Science.md",
     "Plans/Year 1.md",
     "Uni math/Uni Modules/Year 1/Methods of Mathematical Modelling 2 (MA144-10).md",
@@ -242,8 +258,6 @@
     "未命名.base",
     "图片/Pasted image 20260509182511.png",
     "图片",
-    "copilot/copilot-conversations/Summarizing_by_Notes@20260706_153619.md",
-    "copilot/copilot-conversations/Lead_Ball_vs_Feather_Drop@20260706_155951.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
