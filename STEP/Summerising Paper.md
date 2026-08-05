@@ -18,7 +18,7 @@ Trigger: Symmetry. Thing in the form of $a+b$, $a^2+b^2$, $a^3 + b^3$. We can pr
 
 *Crux:* Veita Veita Veita
  
- Trap: Aritgmetic slip 
+ Trap: Arithmetic slip 
  
 *Takeaway*: Recognise Vieta
 
@@ -112,7 +112,7 @@ $$
 The idea is **making the denominator the same so that fractions can be summed**
 Or 
 **exploiting symmetry**
-##### **Symmetry!!!!!!!!!!**
+
 
 
 ### Q 3
