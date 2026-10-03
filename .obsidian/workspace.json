@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "2026.10.02"
             }
+          },
+          {
+            "id": "f1bd567db3ae8a74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily note/2026.10.03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026.10.03"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -267,13 +281,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d2af96d72e61b5a",
+  "active": "f1bd567db3ae8a74",
   "lastOpenFiles": [
+    "Daily note/Daily note Template.md",
+    "Daily note/2026.10.03.md",
+    "Uni math/Uni Modules/Year 1/Algebra 1 (MA151-10).md",
+    "Daily note/2026.10.02.md",
     "Pasted image 20261003062646.png",
     "Daily note/2026.10.01.md",
-    "Daily note/2026.10.02.md",
-    "Daily note/Daily note Template.md",
-    "Uni math/Uni Modules/Year 1/Algebra 1 (MA151-10).md",
     "Concept/Concept Note Template.md",
     "未命名",
     "Weekly notes/Weekly Review Template.md",
