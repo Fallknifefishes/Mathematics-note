@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily note/2026.10.06.md",
+                "file": "Daily note/2026.10.08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026.10.06"
+              "title": "2026.10.08"
             }
           }
         ],
@@ -351,18 +351,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e241237fd51e633d",
+  "active": "7748cc7c4deb79b3",
   "lastOpenFiles": [
-    "Daily note/Daily note Template.md",
-    "Daily note/2026.10.05.md",
-    "Daily note/2026.10.03.md",
-    "Daily note/2026.10.02.md",
-    "2026.10.08.md",
     "Daily note/2026.10.07.md",
-    "All.md",
-    "Daily note/2026.10.06.md",
     "Daily note/2026.10.01.md",
+    "Daily note/2026.10.02.md",
+    "Daily note/2026.10.03.md",
     "Daily note/2026.10.04.md",
+    "Daily note/2026.10.05.md",
+    "Daily note/2026.10.06.md",
+    "Daily note/Daily note Template.md",
+    "Daily note/2026.10.08.md",
+    "All.md",
     "Pasted image 20261007052700.png",
     "Uni math/Uni Modules/Year 1/Algebra 1 (MA151-10).md",
     "Pasted image 20261003062646.png",
