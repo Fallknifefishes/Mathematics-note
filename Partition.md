@@ -15,4 +15,5 @@ If we have $A_{i}'s$ such that $\cup_{i=1}^n A_{i} = A$, then all we have to do 
 
 > Trick
 
-For any set $A$, one **common partition is**, partitioning $A$ into *the parts that are in $B$,* and *the parts that are not in $B$ *  
+For any set $A$, one **common partition is**, partitioning $A$ into *the parts that are in $B$,* and *the parts that are not in $B$ .*
+In this case, $A = (A-B) \cup (A\cap B)$ 
