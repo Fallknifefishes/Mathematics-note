@@ -33,6 +33,5 @@ Maximum **4.5** hour of **effective study** per day.
 - Podcast of economics / whats going on. 提升认知; Go to read abstract of papers.
 - Notes; copy things to **Obsidian** 
 - Heristics: Reflect on how to study 
-- Memorise formula
 
 
