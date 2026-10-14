@@ -242,9 +242,23 @@
               "icon": "lucide-file",
               "title": "2026.10.13"
             }
+          },
+          {
+            "id": "57da53ce76398d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "致香港证券及期货事务监察委员会的补充投诉材料.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "致香港证券及期货事务监察委员会的补充投诉材料"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -433,10 +447,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b0855bb682d7596",
+  "active": "57da53ce76398d38",
   "lastOpenFiles": [
-    "Daily note/Queen of Science.md",
+    "致香港证券及期货事务监察委员会的补充投诉材料.md",
     "Daily note/2026.10.13.md",
+    "Daily note/Queen of Science.md",
     "Daily note/Daily note Template.md",
     "Daily note/2026.10.12.md",
     "Louis G5 数学导师.md",
@@ -461,7 +476,6 @@
     "Heuristics/Attention is All You Need.md",
     "Uni math/Books/UA-A rough record of thinking and meta thinking.md",
     "Weekly notes/Weekly Review Template.md",
-    "Uni math/Uni Modules/Year 1/Analysis 1 (MA141-10).md",
     "Pasted image 20261011050730.png",
     "Pasted image 20261010044804.png",
     "Pasted image 20261007052700.png",
