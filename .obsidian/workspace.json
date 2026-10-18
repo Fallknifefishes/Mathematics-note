@@ -106,6 +106,20 @@
             }
           },
           {
+            "id": "ac641a2bff664617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily note/2026.10.17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026.10.17"
+            }
+          },
+          {
             "id": "f1bd567db3ae8a74",
             "type": "leaf",
             "state": {
@@ -286,7 +300,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -475,9 +489,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cf4b4089db0f5aa",
+  "active": "ac641a2bff664617",
   "lastOpenFiles": [
     "Daily note/Daily note Template.md",
+    "Daily note/2026.10.17.md",
     "Daily note/2026.10.16.md",
     "Daily note/2026.10.15.md",
     "Break time snacks.md",
@@ -502,7 +517,6 @@
     "Daily note/2026.10.04.md",
     "Daily note/2026.10.03.md",
     "Daily note/2026.10.02.md",
-    "Partition.md",
     "Pasted image 20260723210337.png",
     "Pasted image 20261011050730.png",
     "Pasted image 20261010044804.png",
