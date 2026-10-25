@@ -354,9 +354,23 @@
               "icon": "lucide-file",
               "title": "2026.10.23"
             }
+          },
+          {
+            "id": "3dbd3914f1df6814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily note/2026.10.24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026.10.24"
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -545,10 +559,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "761f45de9ee3b7bc",
+  "active": "3dbd3914f1df6814",
   "lastOpenFiles": [
     "未命名.md",
     "Daily note/Daily note Template.md",
+    "Daily note/2026.10.24.md",
     "Daily note/2026.10.23.md",
     "Partition.md",
     "Uni math/Books/Understanding Analysis.md",
@@ -573,7 +588,6 @@
     "Plans/Year 1.md",
     "Plans/10 Years Plan - Timeline.md",
     "Uniform continues.md",
-    "Daily note/2026.10.10.md",
     "Pasted image 20260723210337.png",
     "Pasted image 20261011050730.png",
     "Pasted image 20261010044804.png",
