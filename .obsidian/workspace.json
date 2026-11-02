@@ -431,12 +431,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans/10 Years Plan - Timeline.md",
+                "file": "STEP/Complex Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 Years Plan - Timeline"
+              "title": "Complex Number"
             }
           }
         ],
@@ -631,6 +631,7 @@
   },
   "active": "21225c11c599232c",
   "lastOpenFiles": [
+    "Plans/10 Years Plan - Timeline.md",
     "STEP/Complex Number.md",
     "STEP/Summerising Paper.md",
     "STEP/Vectors.md",
@@ -648,7 +649,6 @@
     "子群、右陪集与等价关系_思维导图与数学理解.pdf",
     "Daily note/2026.10.30.md",
     "Plans/Year 1.md",
-    "Plans/10 Years Plan - Timeline.md",
     "未命名.md",
     "Daily note/2026.10.23.md",
     "Uni math/Uni Modules/Year 1/Methods of Mathematical Modelling 2 (MA144-10).md",
