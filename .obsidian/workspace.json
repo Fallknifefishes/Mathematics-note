@@ -522,9 +522,23 @@
               "icon": "lucide-file",
               "title": "2026.11.07"
             }
+          },
+          {
+            "id": "4efef7301c599dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily note/2026.11.09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026.11.09"
+            }
           }
         ],
-        "currentTab": 36
+        "currentTab": 37
       }
     ],
     "direction": "vertical"
@@ -713,11 +727,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fc6a13d66a1c5ce",
+  "active": "4efef7301c599dbd",
   "lastOpenFiles": [
-    "Pasted image 20261108062818.png",
     "Daily note/Daily note Template.md",
+    "Daily note/2026.11.09.md",
     "Daily note/2026.11.07.md",
+    "Pasted image 20261108062818.png",
     "Daily note/2026.11.06.md",
     "Daily note/Queen of Science.md",
     "Daily note/2026.11.05.md",
@@ -744,7 +759,6 @@
     "Pasted image 20261011050730.png",
     "Pasted image 20261021061043.png",
     "Pasted image 20261030051513.png",
-    "Pasted image 20261027063001.png",
     "Uniform continues.md",
     "子群、右陪集与等价关系_思维导图与数学理解.pdf",
     "Plans/Year 1.md",
